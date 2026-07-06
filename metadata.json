@@ -1,0 +1,6 @@
+{
+  "name": "Khelofunofficial",
+  "description": "Premium informational sports tracker and traditional card games strategy directory featuring real-time scores, win probability analytics, and academic game theory guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
